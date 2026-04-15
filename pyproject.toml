@@ -1,0 +1,22 @@
+[project]
+name = "murmur-picker"
+version = "1.0.0"
+description = "Tiny ComfyUI styling utility for fast node and group coloring with emoji labels for nodes."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+  { name = "Vlad Gohn", email = "vladgohn@gmail.com" }
+]
+classifiers = [
+  "Operating System :: OS Independent"
+]
+
+[project.urls]
+Repository = "https://github.com/vladgohn/ComfyUI-MurMur"
+Documentation = "https://github.com/vladgohn/ComfyUI-MurMur#readme"
+"Bug Tracker" = "https://github.com/vladgohn/ComfyUI-MurMur/issues"
+
+[tool.comfy]
+PublisherId = "vladgohn"
+DisplayName = "🦄 MurMur"
+requires-comfyui = ">=1.0.0"
