@@ -21,6 +21,8 @@ and a workflow that stays out of your way.
 
 ![MurMur screenshot](./img/murmur_screen.png)
 
+> Keywords: ComfyUI color picker, ComfyUI node colors, ComfyUI group colors, color nodes in ComfyUI, fast ComfyUI styling, ComfyUI node decoration.
+
 ### ✦ Why MurMur Exists
 
 Most color pickers in the ComfyUI ecosystem arrive as side features inside big packs.
@@ -33,6 +35,11 @@ That is a bad trade if the only thing you actually want is:
 
 `MurMur` exists specifically for that exact use case.
 
+It is not a “production pipeline node” in the usual sense.
+It is a quality-of-life node.
+Its whole purpose is to make the workspace easier to read, easier to scan,
+and less miserable to work in all day.
+
 ### ✦ What It Does
 
 - Opens a floating color picker with `Tab`
@@ -42,6 +49,17 @@ That is a bad trade if the only thing you actually want is:
 - Remembers picker position when dragged by the header
 - Keeps a quick-access slot for the last used color
 - Resets color back to the default theme color
+
+### ✦ If You Were Searching For...
+
+You probably want `MurMur` if you were searching for:
+
+- how to color nodes in ComfyUI
+- how to color groups in ComfyUI
+- ComfyUI color picker
+- ComfyUI node styling
+- a simple ComfyUI node for coloring without installing a huge pack
+- a fast way to make workflows easier to read
 
 ### ✦ Important Behavior
 
@@ -76,6 +94,31 @@ GitHub README files do not support real interactive language tabs.
 This repository uses an in-page language switcher at the top of `README.md`
 and also provides a dedicated [README.zh-CN.md](./README.zh-CN.md).
 
+### ✦ Suggested GitHub Topics
+
+If you want this repository to be easier to find, add these topics on GitHub:
+
+- `comfyui`
+- `comfyui-custom-nodes`
+- `comfyui-node`
+- `color-picker`
+- `node-styling`
+- `workflow-ui`
+- `graph-ui`
+- `quality-of-life`
+- `emoji`
+- `custom-nodes`
+
+### ✦ Short Promo Text
+
+Use this anywhere you want to mention the project:
+
+> MurMur is a tiny ComfyUI custom node made only for fast node and group coloring. No giant utility pack, no buried color picker, just a simple floating styling tool that makes workflows easier to read and nicer to work in.
+
+### ✦ One-Line Registry Description
+
+> Tiny ComfyUI styling utility for fast node and group coloring with emoji labels for nodes.
+
 ---
 
 ## 简体中文
@@ -87,6 +130,8 @@ and also provides a dedicated [README.zh-CN.md](./README.zh-CN.md).
 它就是一个轻量悬浮颜色面板，加上一小排 emoji 标签，专门服务于节点和分组的快速美化。
 
 ![MurMur 截图](./img/murmur_screen.png)
+
+> 关键词：ComfyUI 颜色选择器、ComfyUI 节点上色、ComfyUI 分组上色、ComfyUI 工作流美化、ComfyUI 节点装饰。
 
 ### ✦ 为什么会有 MurMur
 
@@ -102,6 +147,10 @@ ComfyUI 里很多颜色相关功能都只是大包里的附带功能。
 
 `MurMur` 就是专门为这个场景做的。
 
+它不是传统意义上的“生产节点”。
+它是一个非常纯粹的体验改良工具。
+目标只有一个：让工作流更清晰、更好看、更容易读。
+
 ### ✦ 功能
 
 - 按 `Tab` 打开悬浮颜色选择器
@@ -111,6 +160,17 @@ ComfyUI 里很多颜色相关功能都只是大包里的附带功能。
 - 可以拖动标题栏移动面板，并记住位置
 - 调色板里保留“最近一次使用的颜色”
 - 可以恢复为主题默认颜色
+
+### ✦ 如果你搜索的是这些
+
+如果你在找下面这些东西，那你大概率就是在找 `MurMur`：
+
+- 如何给 ComfyUI 节点上色
+- 如何给 ComfyUI 分组上色
+- ComfyUI 颜色选择器
+- ComfyUI 节点美化
+- 不想装大包，只想单独要一个上色工具
+- 想让工作流更容易阅读、更舒服
 
 ### ✦ 重要说明
 
@@ -146,3 +206,22 @@ GitHub 的 README 不支持真正可交互的语言标签页。
 
 - `README.md` 顶部页内语言切换入口
 - 单独的 [README.zh-CN.md](./README.zh-CN.md) 中文文件
+
+### ✦ 推荐 GitHub Topics
+
+如果你希望这个仓库更容易被搜到，可以在 GitHub 里添加这些 topics：
+
+- `comfyui`
+- `comfyui-custom-nodes`
+- `comfyui-node`
+- `color-picker`
+- `node-styling`
+- `workflow-ui`
+- `graph-ui`
+- `quality-of-life`
+- `emoji`
+- `custom-nodes`
+
+### ✦ 简短介绍文案
+
+> MurMur 是一个超小型 ComfyUI 自定义节点，只做节点和分组的快速上色。不需要安装一整包工具，不需要忍受埋得很深的颜色面板，就是一个简单直接的悬浮样式工具，让工作流更清晰、更好看、更容易使用。

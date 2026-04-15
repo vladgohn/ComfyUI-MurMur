@@ -10,6 +10,8 @@
 
 ![MurMur 截图](./img/murmur_screen.png)
 
+> 关键词：ComfyUI 颜色选择器、ComfyUI 节点上色、ComfyUI 分组上色、ComfyUI 工作流美化、ComfyUI 节点装饰。
+
 ## 为什么做它
 
 很多现有方案都是在一个大包里“顺手带一个颜色功能”。
@@ -24,6 +26,9 @@
 
 就这么简单。
 
+它不是传统意义上的生产节点，而是一个非常纯粹的体验改良工具。
+如果你每天都要在一堆工作流里看节点、找节点、分辨节点，它就很有价值。
+
 ## 功能
 
 - 按 `Tab` 打开悬浮颜色选择器
@@ -33,6 +38,17 @@
 - 可拖动标题栏移动面板，并自动记住位置
 - 调色板保留最近一次使用的颜色
 - 支持恢复主题默认颜色
+
+## 如果你搜索的是这些
+
+如果你在找下面这些东西，那你大概率就是在找 `MurMur`：
+
+- 如何给 ComfyUI 节点上色
+- 如何给 ComfyUI 分组上色
+- ComfyUI 颜色选择器
+- ComfyUI 节点美化
+- 不想装大包，只想单独要一个上色工具
+- 想让工作流更容易阅读、更舒服
 
 ## 重要说明
 
@@ -68,3 +84,22 @@ GitHub README 不支持真正原生的交互式 tabs。
 
 - `README.md` 顶部语言切换入口
 - 单独的英文/中文 README 文件
+
+## 推荐 GitHub Topics
+
+建议在 GitHub 仓库中添加这些 topics：
+
+- `comfyui`
+- `comfyui-custom-nodes`
+- `comfyui-node`
+- `color-picker`
+- `node-styling`
+- `workflow-ui`
+- `graph-ui`
+- `quality-of-life`
+- `emoji`
+- `custom-nodes`
+
+## 简短介绍文案
+
+> MurMur 是一个超小型 ComfyUI 自定义节点，只做节点和分组的快速上色。不需要安装一整包工具，不需要忍受埋得很深的颜色面板，就是一个简单直接的悬浮样式工具，让工作流更清晰、更好看、更容易使用。
